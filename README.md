@@ -1,8 +1,9 @@
 ### Hi, I'm Jonathan Taylor 👋
 
 
-- 🔭 I’m currently experimenting with different tech stacks
-- 🌱 I’m currently learning Java Spring Framework
+- 🔭 I’m currently working at ProcessBarron as a Junior Software Developer
+- 🌱 I’m currently using VB.NET, Python, and Java
+- :triangular_flag_on_post: Pelham, Alabama, 35124
 - 💬 Ask me about my latest projects
 - 📫 How to reach me: 
   - [Email](mailto:jontaylor091@gmail.com)
@@ -10,7 +11,21 @@
 - :round_pushpin: Other accounts
   - [Stack Overflow](https://stackoverflow.com/users/19234749/jonathan-taylor)
   - [LeetCode](https://leetcode.com/Jtmonument/)
-- ⚡ Fun fact: I enjoy eating Bangla and Nepali food with my hand.
+- ⚡ Fun fact: I enjoy food.
+
+### EDUCATION
+- Troy University
+- August 2018 - May 2022
+- B.Sc. Computer Science
+- Minor in Cyber Security
+- :high_brightness: Some of my favorite classes were:
+    - Cyber Security Technique & Practice ([scapy](https://github.com/secdev/scapy) is cool)
+    - Data Communications & Networking (it's a miracle)
+    - Web Based Software Development (super useful)
+- :underage: Some of my hardest classes were:
+    - Formal Language & Theory of Computation (oh no! regular expressions)
+    - Fundamentals of AI (oh no! A*)
+
 <!-- Random Dev Jokes -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=algolia" alt="Jokes Card" />
 
