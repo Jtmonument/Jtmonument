@@ -11,7 +11,7 @@
 - :round_pushpin: Other accounts
   - [Stack Overflow](https://stackoverflow.com/users/19234749/jonathan-taylor)
   - [LeetCode](https://leetcode.com/Jtmonument/)
-- ⚡ Fun fact: I enjoy food.
+- ⚡ Fun fact: I enjoy food and badminton.
 
 ### EDUCATION
 - Troy University
@@ -28,6 +28,8 @@
 
 <!-- Random Dev Jokes -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=algolia" alt="Jokes Card" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jtmonument&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jtmonument's github stats](https://github-readme-stats.vercel.app/api?username=Jtmonument&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
 
