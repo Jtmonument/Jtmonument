@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at ProcessBarron as a Junior Software Developer
 - 🌱 I’m currently using VB.NET, Python, and Java
-- :triangular_flag_on_post: Pelham, Alabama, 35124
+- :triangular_flag_on_post: I'm living in Birmingham, Alabama
 - 💬 Ask me about my latest projects
 - 📫 How to reach me: 
   - [Email](mailto:jontaylor091@gmail.com)
