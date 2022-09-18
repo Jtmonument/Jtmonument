@@ -13,7 +13,7 @@
   - [LeetCode](https://leetcode.com/Jtmonument/)
 - ⚡ Fun fact: I enjoy food and badminton.
 
-### EDUCATION
+### Education
 - Troy University
 - August 2018 - May 2022
 - B.Sc. Computer Science
